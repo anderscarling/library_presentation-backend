@@ -1,6 +1,6 @@
 GIT
   remote: git@github.com:anderscarling/library_presentation-protobuf.git
-  revision: c98e6a3c9e95f439f5b457001adc04351c0fc889
+  revision: 3ef37d9a370a3c4b1f59136cb38eae8280dc82b5
   specs:
     library_api (0.0.1)
       google-protobuf (~> 3.1.0)
